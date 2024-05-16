@@ -10,4 +10,4 @@ This repository contains some of the NLP projects that I have worked on. The pro
 
 ### Todo
 
-- [ ] Create python libraries for various models
+* [ ] Create python libraries for various models
